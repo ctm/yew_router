@@ -14,7 +14,7 @@
 //! * Router - A component connected to the RouteAgent, and is capable of resolving Routes to
 //! Switch implementors, so you can use them to render Html.
 //! * Route - A struct containing an the route string and state.
-//! * RouteButton & RouteLink - Wrapper components around buttons and anchor tags respectively that
+//! * RouterButton & RouterLink - Wrapper components around buttons and anchor tags respectively that
 //!   allow users to change the route.
 //!
 //! ## State and Aliases
